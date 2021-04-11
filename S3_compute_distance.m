@@ -8,7 +8,7 @@ load database trans_n database
 syms T omega
 N=trans_n;
 D=database;
-Tr=39.665;
+Tr=39.71;
 omega_r=0.005;
 %% Compute distance
 result=[];

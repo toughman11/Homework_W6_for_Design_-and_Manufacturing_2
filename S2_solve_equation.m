@@ -7,7 +7,7 @@
 load database database
 syms T omega
 D=database;
-Tr=39.665;
+Tr=39.71;
 omega_r=0.005;
 %% Solve the equaitons
 syms n
