@@ -2,7 +2,7 @@
 % Author: Zeshu Wang
 % Student ID: 2018300003034
 % Email: wangzeshu@whu.edu.cn
-% Description: Qualitative analysis with Goodman lines ploted
+% Description: Qualitative analysis with torque-speed lines ploted
 %% Parameters Initialization
 load database database
 syms T omega
